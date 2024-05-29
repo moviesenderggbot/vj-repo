@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/VJBots/VJ-FILTER-BOT",
-    "repository": "https://github.com/VJBots/VJ-FILTER-BOT",
+    "website": "https://t.me/xyz_problem_bot",
+    "repository": "https://t.me/xyz_problem_bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -55,11 +55,11 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help  - https://t.me/xyz_problem_bot",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "Name of the database in mongoDB. For more help - https://t.me/xyz_problem_bot",
             "required": false
         },
         "COLLECTION_NAME": {
